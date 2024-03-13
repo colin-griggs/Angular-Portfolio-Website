@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/resume-section/resume-section.component.css"],
+  "sourcesContent": [".content2 {\r\n    display: block;\r\n    position: relative;\r\n    text-align: left;\r\n    background: url(\"/assets/light_paper_background_3024x4032.jpg\") no-repeat;\r\n    top: 100vh;\r\n    line-height: 2;\r\n    \r\n}\r\n\r\n.content2-h1 {\r\n    text-align: center;\r\n    text-shadow: 1px 1px 1px var(--BLACK);\r\n    font-size: 3rem;\r\n}\r\n\r\n.content2-table {\r\n    width: 100%;\r\n}\r\n\r\n.content2-h3 {\r\n    font-size: 1.5rem;\r\n}\r\n\r\n.content2-h4 {\r\n    display: block;\r\n}\r\n\r\n.content2-dbutton {\r\n    color: var(--BLACK);\r\n    font-family: var(--FANCY-FONT2);\r\n    font-size: 3vh;\r\n    padding: 1vh 1vw;\r\n    margin-left: 1vw;\r\n    margin-top: 1vh;\r\n    margin-bottom: 2vh;\r\n}\r\n\r\nul {\r\n    padding-left: 1.5vw;\r\n}"],
+  "mappings": ";AAAA,CAAC;AACG,WAAS;AACT,YAAU;AACV,cAAY;AACZ,cAAY,kDAAoD;AAChE,OAAK;AACL,eAAa;AAEjB;AAEA,CAAC;AACG,cAAY;AACZ,eAAa,IAAI,IAAI,IAAI,IAAI;AAC7B,aAAW;AACf;AAEA,CAAC;AACG,SAAO;AACX;AAEA,CAAC;AACG,aAAW;AACf;AAEA,CAAC;AACG,WAAS;AACb;AAEA,CAAC;AACG,SAAO,IAAI;AACX,eAAa,IAAI;AACjB,aAAW;AACX,WAAS,IAAI;AACb,eAAa;AACb,cAAY;AACZ,iBAAe;AACnB;AAEA;AACI,gBAAc;AAClB;",
+  "names": []
+}

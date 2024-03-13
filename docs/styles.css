@@ -1,0 +1,31 @@
+@import "https://fonts.googleapis.com/css2?family=Tsukimi+Rounded:wght@500&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Lato&family=Tsukimi+Rounded:wght@500&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&family=Tsukimi+Rounded:wght@500&display=swap";
+
+/* src/styles.css */
+* {
+  margin: 0;
+  padding: 0;
+  color: var(--WHITE);
+  scroll-behavior: smooth;
+}
+:root {
+  --WHITE: rgba(245, 245, 245, 0.921);
+  --BLACK: rgb(29, 26, 29);
+  --FONT: "Lato", sans-serif;
+  --FANCY-FONT: "Tsukimi Rounded", sans-serif;
+  --FANCY-FONT2: "Montserrat", sans-serif;
+  background-color: var(--BLACK);
+}
+.offscreen {
+  position: absolute;
+  right: 10000000px;
+  overflow: hidden;
+}
+.align-right {
+  float: right;
+  padding-right: 0.5vw;
+}
+
+/* angular:styles/global:styles */
+/*# sourceMappingURL=styles.css.map */

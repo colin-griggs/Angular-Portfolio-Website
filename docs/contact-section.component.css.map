@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/contact-section/contact-section.component.css"],
+  "sourcesContent": [".content3 {\r\n    margin-top: 100vh;\r\n    background-image: linear-gradient(rgba(50, 50, 50,0.5),rgba(40, 40, 40,1));\r\n    \r\n}\r\n\r\n.content3-h2 {\r\n    padding-top: 1vh;\r\n    font-size: 3rem;\r\n}\r\n\r\n.content3-table {\r\n    width: 50%;\r\n    height: 150px;\r\n    font-size: 1.5rem;\r\n}\r\n\r\n.content3-h3 {\r\n    font-size: 1.5rem;\r\n}\r\n\r\n.content3-input {\r\n    font-family: var(--FANCY-FONT2);\r\n    padding: 1vh 1vw 1vh 1vw;\r\n    width: 35%;\r\n    margin-top: 1vh;\r\n    color: var(--BLACK);\r\n}\r\n\r\n.content3-input2 {\r\n    padding-bottom: 10vh;\r\n}\r\n\r\n.content3-inputButton {\r\n    font-family: var(--FANCY-FONT2);\r\n    padding: 1vh 1vw 1vh 1vw;\r\n    margin-top: 1vh;\r\n    color: var(--BLACK);\r\n    width: 30%;\r\n}"],
+  "mappings": ";AAAA,CAAC;AACG,cAAY;AACZ,oBAAkB,gBAAgB,KAAK,EAAE,EAAE,EAAE,EAAE,EAAE,EAAC,IAAhC,EAAqC,KAAK,EAAE,EAAE,EAAE,EAAE,EAAE,EAAC;AAE3E;AAEA,CAAC;AACG,eAAa;AACb,aAAW;AACf;AAEA,CAAC;AACG,SAAO;AACP,UAAQ;AACR,aAAW;AACf;AAEA,CAAC;AACG,aAAW;AACf;AAEA,CAAC;AACG,eAAa,IAAI;AACjB,WAAS,IAAI,IAAI,IAAI;AACrB,SAAO;AACP,cAAY;AACZ,SAAO,IAAI;AACf;AAEA,CAAC;AACG,kBAAgB;AACpB;AAEA,CAAC;AACG,eAAa,IAAI;AACjB,WAAS,IAAI,IAAI,IAAI;AACrB,cAAY;AACZ,SAAO,IAAI;AACX,SAAO;AACX;",
+  "names": []
+}
