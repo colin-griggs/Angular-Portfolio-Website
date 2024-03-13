@@ -1,0 +1,92 @@
+.content1 {
+    font-family: var(--FONT);
+}
+
+.content1-name {
+    position: absolute;
+    font-size: 7vw;
+    padding-top: 36vh;
+    padding-left: 15vw;
+    
+}
+
+.content1-headshot {
+    position: absolute;
+    width: 20rem;
+    height: 20rem;
+    border-radius: 50%;
+    right: 20vw;
+    top: 27vh;
+    
+}
+
+.content1-desc {
+    position: absolute;
+    font-size: 2.75vw;
+    padding-top: 53vh;
+    padding-left: 15vw;
+}
+
+/* 
+For Mobile devices: 320px-480px
+For Tablets or iPad: 480px - 768px
+For Laptop or small-size screen: 768px -1024px
+For Desktop or large-size screen: 1024px -1200px
+For Extra-large size device: 1200px and more 
+
+@media screen and (max-device-width: 480px) {
+    .content1-name {
+
+    }
+    .content1-headshot {
+        
+    }
+    .content1-desc {
+        
+    }
+}
+*/
+
+@media screen and (max-device-width: 480px) {
+    
+    .content1-headshot {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .content1-name {
+        top: 55%;
+        left: 50%;
+        width: 100%;
+        transform: translate(-50%, -50%);
+        font-size: 3.5rem;
+        text-align: center;
+    }
+    .content1-desc {
+        right: 11vw;
+        top: 15rem;
+        font-size: 2rem;
+        text-align: center;
+    }
+}
+ 
+/* For Tablet View */
+@media screen and (min-device-width: 975px) 
+    and (max-device-width: 1200px) {
+    
+    .content1-headshot {
+    right: 13vw;
+    top: 27vh;
+    }
+}
+    
+
+@media screen and (min-device-width: 768px) 
+    and (max-device-width: 975px) {
+    
+    .content1-headshot {
+    right: 10vw;
+    top: 27vh;
+    
+}
+}

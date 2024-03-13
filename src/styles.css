@@ -1,1 +1,40 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Tsukimi+Rounded:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Tsukimi+Rounded:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&family=Tsukimi+Rounded:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    color: var(--WHITE);
+    scroll-behavior: smooth;
+}
+
+
+/* VARIABLES */
+:root {
+    /* COLORS */
+    --WHITE: rgba(245, 245, 245, 0.921);
+    --BLACK: rgb(29, 26, 29);
+    
+    /* FONTS */
+    --FONT: 'Lato', sans-serif;
+    --FANCY-FONT: 'Tsukimi Rounded', sans-serif;
+    --FANCY-FONT2: 'Montserrat', sans-serif;
+
+
+    background-color: var(--BLACK);
+}
+
+/* UTILITY CLASSES */
+
+.offscreen {
+    position: absolute;
+    right: 10000000px;
+    overflow: hidden;
+}
+
+.align-right {
+    float: right;
+    padding-right: 0.5vw;
+    
+}

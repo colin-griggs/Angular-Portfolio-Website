@@ -1,0 +1,40 @@
+.content3 {
+    margin-top: 100vh;
+    background-image: linear-gradient(rgba(50, 50, 50,0.5),rgba(40, 40, 40,1));
+    
+}
+
+.content3-h2 {
+    padding-top: 1vh;
+    font-size: 3rem;
+}
+
+.content3-table {
+    width: 50%;
+    height: 150px;
+    font-size: 1.5rem;
+}
+
+.content3-h3 {
+    font-size: 1.5rem;
+}
+
+.content3-input {
+    font-family: var(--FANCY-FONT2);
+    padding: 1vh 1vw 1vh 1vw;
+    width: 35%;
+    margin-top: 1vh;
+    color: var(--BLACK);
+}
+
+.content3-input2 {
+    padding-bottom: 10vh;
+}
+
+.content3-inputButton {
+    font-family: var(--FANCY-FONT2);
+    padding: 1vh 1vw 1vh 1vw;
+    margin-top: 1vh;
+    color: var(--BLACK);
+    width: 30%;
+}
