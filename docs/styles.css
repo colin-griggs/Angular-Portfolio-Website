@@ -12,6 +12,7 @@
 :root {
   --WHITE: rgba(245, 245, 245, 0.921);
   --BLACK: rgb(29, 26, 29);
+  --GRAY: rgb(128,128,128);
   --FONT: "Lato", sans-serif;
   --FANCY-FONT: "Tsukimi Rounded", sans-serif;
   --FANCY-FONT2: "Montserrat", sans-serif;
