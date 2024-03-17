@@ -4,3 +4,9 @@ To fix cover to fit picture and text
 
 Build Script
 ng build --configuration development --output-path docs --base-href ./
+
+Need to
+Finish Media Queries
+Spell Check Resume Area
+Finish Projects and Submit to Github
+Leetcode Questions
