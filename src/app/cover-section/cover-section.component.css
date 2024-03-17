@@ -50,7 +50,7 @@ For Extra-large size device: 1200px and more
 @media screen and (max-device-width: 480px) {
     
     .content1-headshot {
-        top: 50%;
+        top: 35%;
         left: 50%;
         transform: translate(-50%, -50%);
     }
