@@ -1,0 +1,6 @@
+CSS Grid
+Flex Box
+To fix cover to fit picture and text
+
+Build Script
+ng build --configuration development --output-path docs --base-href ./
