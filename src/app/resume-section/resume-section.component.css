@@ -2,7 +2,7 @@
     display: block;
     position: relative;
     text-align: left;
-    background: url("/assets/paper_bg.jpg") no-repeat;
+    background: url("../../assets/paper_bg.jpg") no-repeat;
     top: 100vh;
     line-height: 2;
     

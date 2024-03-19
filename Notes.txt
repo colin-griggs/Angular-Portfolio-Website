@@ -10,3 +10,7 @@ Finish Media Queries
 Spell Check Resume Area
 Finish Projects and Submit to Github
 Leetcode Questions
+Fix Resume Background
+
+Resume Background
+Editing in a way that does not alter the live website
