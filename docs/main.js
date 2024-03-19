@@ -31992,7 +31992,7 @@ var _ResumeSectionComponent = class _ResumeSectionComponent {
 _ResumeSectionComponent.\u0275fac = function ResumeSectionComponent_Factory(t) {
   return new (t || _ResumeSectionComponent)();
 };
-_ResumeSectionComponent.\u0275cmp = /* @__PURE__ */ \u0275\u0275defineComponent({ type: _ResumeSectionComponent, selectors: [["app-resume-section"]], standalone: true, features: [\u0275\u0275StandaloneFeature], decls: 77, vars: 0, consts: [[1, "content2"], [1, "content2-h1"], [1, "content2-h3"], [1, "content2-h4"], [1, "align-right"], [1, "content2-table"], ["href", "assets/Colin Griggs.pdf"], [1, "content2-dbutton"], ["href", "https://github.com/AmChickenTender7?tab=repositories"]], template: function ResumeSectionComponent_Template(rf, ctx) {
+_ResumeSectionComponent.\u0275cmp = /* @__PURE__ */ \u0275\u0275defineComponent({ type: _ResumeSectionComponent, selectors: [["app-resume-section"]], standalone: true, features: [\u0275\u0275StandaloneFeature], decls: 77, vars: 0, consts: [[1, "content2"], [1, "content2-h1"], [1, "content2-h3"], [1, "content2-h4"], [1, "align-right"], [1, "content2-table"], ["href", "assets/Colin Griggs.pdf"], [1, "content2-dbutton"], ["href", "https://github.com/colin-griggs?tab=repositories"]], template: function ResumeSectionComponent_Template(rf, ctx) {
   if (rf & 1) {
     \u0275\u0275elementStart(0, "div", 0)(1, "h2", 1);
     \u0275\u0275text(2, "Resume");
